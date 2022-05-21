@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.sharc;e.poopymod.PoopyMod"
+      "net.sharcle.poopymod.PoopyMod"
     ]
   },
   "mixins": [
